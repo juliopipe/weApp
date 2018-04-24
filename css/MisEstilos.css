@@ -1,0 +1,31 @@
+
+#nav1{
+	height: 40px;
+	margin: 0 auto;
+	background-color:teal;
+	
+	
+	
+}
+#nav1 ul{
+	
+	
+	list-style: none;
+	display:block;
+	
+
+}
+
+#nav1 ul li {
+	float:left;
+	margin: 0 5px;
+	
+	
+	
+}
+
+
+
+
+	
+	
